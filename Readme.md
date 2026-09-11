@@ -24,10 +24,10 @@ Select a module below to dive deep into the implementation details:
 
 | Module | Focus | Best For... | Link |
 | :--- | :--- | :--- | :--- |
-| **🛠️ Agent Skills** | **Procedures** | Repeatable steps & human-defined judgment. | [Go to Skills $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Agent-Skills.md) |
-| **🧠 Modern AI** | **Foundations** | LLMs, RAG, MCP, and basic concepts. | [Go to Basics $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Modern-AI-Basics.md) |
-| **🛡️ Agentic Security** | **Runtime Safety** | Harness security, threat modeling & IR. | [Go to Agentic Sec $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Security-Agentic.md) |
-| **🔐 LLM Security** | **Model Safety** | Prompt injection, data privacy & guardrails. | [Go to LLM Sec $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Security-LLM.md) |
+| **🛠️ Agent Skills** | **Procedures** | Repeatable steps & human-defined judgment. | [Go to Skills ](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Agent-Skills.md) |
+| **🧠 Modern AI** | **Foundations** | LLMs, RAG, MCP, and basic concepts. | [Go to Basics ](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Modern-AI-Basics.md) |
+| **🛡️ Agentic Security** | **Runtime Safety** | Harness security, threat modeling & IR. | [Go to Agentic Sec ](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Security-Agentic.md) |
+| **🔐 LLM Security** | **Model Safety** | Prompt injection, data privacy & guardrails. | [Go to LLM Sec ](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Security-LLM.md) |
 
 ---
 
