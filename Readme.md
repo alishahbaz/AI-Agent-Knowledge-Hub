@@ -24,10 +24,10 @@ Select a module below to dive deep into the implementation details:
 
 | Module | Focus | Best For... | Link |
 | :--- | :--- | :--- | :--- |
-| **🛠️ Agent Skills** | **Procedures** | Repeatable steps & human-defined judgment. | [Go to Skills $\rightarrow$](Agent-Skills.md) |
-| **🧠 Modern AI** | **Foundations** | LLMs, RAG, MCP, and basic concepts. | [Go to Basics $\rightarrow$](Modern-AI-Basics.md) |
-| **🛡️ Agentic Security** | **Runtime Safety** | Harness security, threat modeling & IR. | [Go to Agentic Sec $\rightarrow$](Security-Agentic.md) |
-| **🔐 LLM Security** | **Model Safety** | Prompt injection, data privacy & guardrails. | [Go to LLM Sec $\rightarrow$](Security-LLM.md) |
+| **🛠️ Agent Skills** | **Procedures** | Repeatable steps & human-defined judgment. | [Go to Skills $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Agent-Skills.md) |
+| **🧠 Modern AI** | **Foundations** | LLMs, RAG, MCP, and basic concepts. | [Go to Basics $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Modern-AI-Basics.md) |
+| **🛡️ Agentic Security** | **Runtime Safety** | Harness security, threat modeling & IR. | [Go to Agentic Sec $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Security-Agentic.md) |
+| **🔐 LLM Security** | **Model Safety** | Prompt injection, data privacy & guardrails. | [Go to LLM Sec $\rightarrow$](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Security-LLM.md) |
 
 ---
 
@@ -57,9 +57,9 @@ graph TD
 ## 🚀 Quick Start Guide
 *Not sure where to start? Follow this path:*
 
-1. **New to Agents?** Start with [**Modern AI Basics**](Modern-AI-Basics.md) to understand the core components.
-2. **Building a Skill?** Jump to [**Agent Skills**](Agent-Skills.md) for best practices on `skill.md` and scripts.
-3. **Building a Production App?** Read [**Agentic Security**](Security-Agentic.md) and [**LLM Security**](Security-LLM.md) first.
+1. **New to Agents?** Start with [**Modern AI Basics**](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Modern-AI-Basics.md) to understand the core components.
+2. **Building a Skill?** Jump to [**Agent Skills**](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Agent-Skills.md) for best practices on `skill.md` and scripts.
+3. **Building a Production App?** Read [**Agentic Security**](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Security-Agentic.md) and [**LLM Security**](https://github.com/alishahbaz/AI-Agent-Knowledge-Hub/wiki/Security-LLM.md) first.
 
 ---
 
